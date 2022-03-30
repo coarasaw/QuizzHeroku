@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "crud-employee-6ff27": {
+      "hosting": {
+        "Quizz": [
+          "crud-employee-6ff27"
+        ]
+      }
+    },
+    "ejpassword": {
+      "hosting": {
+        "Quizz": [
+          "ejpassword"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-employee-6ff27"
+  }
+}
